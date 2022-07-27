@@ -1,6 +1,5 @@
 <h3 align="center">👋 Hi there! I'm Bing </h3>
 <p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
   <a href="https://twitter.com/baddabingyu">Twitter</a>
 </p>
 
@@ -21,3 +20,5 @@
 - Learning about: Web3 and Solana 
 - Reach me: [bingyu.yap.21@gmail.com](mailto:bingyu.yap.21@gmail.com) | [twitter.com/baddabingyu](https://twitter.com/baddabingyu)
 - Fun Fact: I play fingerstyle guitar
+- Resume: [bingyu_yap_resume](https://github.com/bingyuyap/resume/blob/main/bingyu_yap_resume.pdf)
+
