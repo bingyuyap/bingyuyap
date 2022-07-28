@@ -10,10 +10,10 @@
 
 
 ##### WORK EXPERIENCE
-- <img src="https://user-images.githubusercontent.com/62840970/181315937-881f7ac3-aaf0-419a-bf5b-7adc58658524.png" width="20"/> Backend Engineer @ [DeGods NFT](https://www.degods.com/) | 
-- <img src="https://user-images.githubusercontent.com/62840970/181320060-56c64134-48d3-4126-967d-12e4a17299b4.png" width="20"/> Backend Engineering Intern @ TikTok | Dec 2021 - Aug 2022
-- <img src="https://user-images.githubusercontent.com/62840970/181498970-08436830-8670-45af-9466-b22f7765a938.png" width="20"/> Backend Engineering Intern @ [Solana.FM](https://solana.fm/) | May 2021 - Jul 2021
-- <img src="https://user-images.githubusercontent.com/62840970/181499487-7a6d4cbd-189d-41db-8bea-e398fd3e6322.png" width="20"/> Backend Engineering Lead @ [AfterClass](https://www.afterclass.io/) | May 2021 - Jul 2021
+- <img src="https://user-images.githubusercontent.com/62840970/181315937-881f7ac3-aaf0-419a-bf5b-7adc58658524.png" width="20"/> [DeGods NFT](https://www.degods.com/) - Jun 2022 - Present
+- <img src="https://user-images.githubusercontent.com/62840970/181320060-56c64134-48d3-4126-967d-12e4a17299b4.png" width="20"/> [TikTok](https://www.tiktok.com/) / [ByteDance](https://www.bytedance.com/en/) - Dec 2021 - Aug 2022
+- <img src="https://user-images.githubusercontent.com/62840970/181498970-08436830-8670-45af-9466-b22f7765a938.png" width="20"/> [Solana.FM](https://solana.fm/) - May 2021 - Jul 2021
+- <img src="https://user-images.githubusercontent.com/62840970/181499487-7a6d4cbd-189d-41db-8bea-e398fd3e6322.png" width="20"/> [AfterClass](https://www.afterclass.io/) - May 2021 - Jul 2021
 
 
 
