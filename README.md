@@ -20,12 +20,11 @@
 
 ##### WHAT I AM UP TO
 
-- <img src="https://user-images.githubusercontent.com/62840970/181325112-8816357b-0b95-4f6d-8c12-1201331c1685.png" alt="drawing" width="20"/> Learning `C++` using Leetcode
-- <img src="https://user-images.githubusercontent.com/62840970/181498741-93235f6e-e831-43ad-b8a1-5ebc270216e3.png" alt="drawing" width="20"/> Building on Web3 and Solana as a developer (moving to Ethereum and Polygon soon :disappointed:)
+- <img src="https://www.pngfind.com/pngs/m/162-1620841_pepe-pepelicious-messages-sticker-7-ez-emote-transparent.png" alt="drawing" width="30"/> Finishing school while contributing to the future of Web3
 
 ##### MORE ABOUT ME
 
-- I use daily: `C++`, `JavaScript`, `TypeScript`, `Golang`
-- Worked with: `Rust`, `.NET`, `Spring Boot`, `Ruby on Rails`
+- I use daily: `Golang`, `TypeScript`
+- Worked with: `Rust`, `.NET`, `Ruby on Rails`, `NodeJS`, `Gin`
 - Reach me: [bingyu.yap.21@gmail.com](mailto:bingyu.yap.21@gmail.com) | [twitter.com/baddabingyu](https://twitter.com/baddabingyu)
 - Resume: [bingyu_yap_resume](https://github.com/bingyuyap/resume/blob/main/bingyu_yap_resume.pdf)
