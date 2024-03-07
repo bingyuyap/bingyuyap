@@ -17,7 +17,7 @@
 
 ##### WORK EXPERIENCE
 
-- <img src="https://github.com/bingyuyap/bingyuyap/assets/62840970/23e87719-16ac-403e-b7d5-6ae6efe79568" width="20"/> [Wormhole Labs](https://twitter.com/wormhole_labs) - Dec 2023 - Today
+- <img src="https://github.com/bingyuyap/bingyuyap/assets/62840970/23e87719-16ac-403e-b7d5-6ae6efe79568" width="20"/> [Wormhole Labs](https://github.com/wormhole-foundation) - Dec 2023 - Today
 - <img src="https://user-images.githubusercontent.com/62840970/212533784-d19ff712-d5fe-407d-8f7e-5e29c23ce4bd.png" width="20"/>  [Dust Labs](https://twitter.com/dust_labs) - Oct 2022 - Dec 2023
 - <img src="https://user-images.githubusercontent.com/62840970/181315937-881f7ac3-aaf0-419a-bf5b-7adc58658524.png" width="20"/>  [DeGods](https://www.degods.com/) - Jun 2022 - Oct 2022
 - <img src="https://user-images.githubusercontent.com/62840970/181320060-56c64134-48d3-4126-967d-12e4a17299b4.png" width="20"/>  [TikTok](https://www.tiktok.com/) / [ByteDance](https://www.bytedance.com/en/) - Dec 2021 - Aug 2022
