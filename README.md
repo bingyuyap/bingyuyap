@@ -25,6 +25,6 @@
 - <img src="https://user-images.githubusercontent.com/62840970/181499487-7a6d4cbd-189d-41db-8bea-e398fd3e6322.png" width="20"/>  [AfterClass](https://www.afterclass.io/) - May 2021 - Jul 2021
 
 ##### MORE ABOUT ME
-- :school_satchel: Finishing school while contributing to the future of web3
+- :school_satchel: Just finished school in 2024
 - :computer: I use daily: `Golang`, `TypeScript`
 - :floppy_disk: Worked with: `Rust`, `.NET`, `Ruby on Rails`, `NodeJS`, `Gin`
